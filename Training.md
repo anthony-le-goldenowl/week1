@@ -60,7 +60,10 @@
     * *Function Rest Parameter:*
        - The rest parameter (...) allows a function to treat an indefinite number of arguments as an array.
      
-  * **jQuery**
+  * **jQuery** ([Testing code]())
+    * *jQuery Effects* (Fade, Slide, Animate, ...)
+    * jQuery HTML* (Get, Set, ...)
+    * To be cont...
    
 
 ### Updating... 
