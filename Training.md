@@ -1,14 +1,19 @@
-# week1
+# Table of content
+  |          Day          | Content                        |
+  | --------------------- |:------------------------------:|
+  | 3/15/2022             |[HTML,CSS](#315)                |
+  | 3/17/2022             |[JS ES6, JQuery](#317)          |
+  |                       |                                |
 
-### **HTML**
+### **HTML** (3/15/2022) <a name="315"></a>
   * Basic tags :white_check_mark:
   * Block tags (div...) and inline tags (span...) [Link](https://www.w3schools.com/htmL/html_blocks.asp) :white_check_mark:
-### **CSS**
+### **CSS** (3/15/2022)
   * CSS precedence [Link](https://css-tricks.com/precedence-css-order-css-matters/) :white_check_mark:
   * Flex and Grid [Link](https://viblo.asia/p/tran-chien-css-giua-grid-va-flexbox-1Je5EjkYKnL) :white_check_mark:
   * Inline, internal, external [Link](https://www.w3schools.com/CSS/css_howto.asp) :white_check_mark:
   * SASS syntax [Link](https://www.w3schools.com/sass/sass_intro.php)
-### **JavaScript** (Src: W3school) 
+### **JavaScript** (Src: W3school) (3/17/2022) <a name="317"></a>
   * **JS ES6** [Link](https://www.w3schools.com/Js/js_es6.asp) :white_check_mark:
     * *Let:* 
       - Variables defined with let cannot be redeclared.
