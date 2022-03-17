@@ -1,15 +1,61 @@
 # week1
 
-1. **HTML**
+### **HTML**
   * Basic tags :white_check_mark:
   * Block tags (div...) and inline tags (span...) :white_check_mark:
-2. **CSS**
+### **CSS**
   * CSS precedence :white_check_mark:
   * Flex and Grid :white_check_mark:
   * Inline, internal, external :white_check_mark:
   * SASS syntax 
-3. **JavaScript**
-  * JS ES6
-  * jQuery 
+### **JavaScript** (Src: W3school) 
+  * **JS ES6** :white_check_mark:
+    * *Let:* 
+      - Variables defined with let cannot be redeclared.
+      - Variables declared inside a { } block cannot be accessed from outside the block (Block Scope).
+    * *Const:*
+      - Variables defined with const cannot be Redeclared.
+      - ariables defined with const cannot be Reassigned.
+      - Variables defined with const have Block Scope.
+    * *Arrow Fuctions:*
+      - Arrow functions do not have their own this. They are not well suited for defining object methods.
+      - Arrow functions are not hoisted. They must be defined before they are used.
+    * *The For/Of Loop:*
+      ```js
+      const cars = ["BMW", "Volvo", "Mini"];
+        let text = "";
+
+        for (let x of cars) {
+          text += x + " ";
+        }
+      ```
+    * *JavaScript Maps:*
+       - Being able to use an Object as a key is an important Map feature.
+    * *JavaScript Sets*
+       - A JavaScript Set is a collection of unique values.
+       - Each value can only occur once in a Set.
+       - A Set can hold any value of any data type.
+    * *JavaScript Classes:*
+       - A Set can hold any value of any data type.
+    * *JavaScript Promises:*
+      ```js
+      let myPromise = new Promise(function(myResolve, myReject) {
+      // "Producing Code" (May take some time)
+
+        myResolve(); // when successful
+        myReject();  // when error
+      });
+
+      // "Consuming Code" (Must wait for a fulfilled Promise)
+      myPromise.then(
+        function(value) { /* code if successful */ },
+        function(error) { /* code if some error */ }
+      );
+      ```
+    * *Function Rest Parameter:*
+       - The rest parameter (...) allows a function to treat an indefinite number of arguments as an array.
+     
+  * **jQuery**
+   
 
 ### Updating... 
