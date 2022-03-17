@@ -42,7 +42,7 @@
        - A Set can hold any value of any data type.
     * *JavaScript Classes:*
        - A Set can hold any value of any data type.
-    * *JavaScript Promises:*
+    * *JavaScript Promises:* [Link](https://toidicodedao.com/2016/07/05/javascript-promise/)
       ```js
       let myPromise = new Promise(function(myResolve, myReject) {
       // "Producing Code" (May take some time)
