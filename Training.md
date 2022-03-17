@@ -2,14 +2,14 @@
 
 ### **HTML**
   * Basic tags :white_check_mark:
-  * Block tags (div...) and inline tags (span...) :white_check_mark:
+  * Block tags (div...) and inline tags (span...) [Link](https://www.w3schools.com/htmL/html_blocks.asp) :white_check_mark:
 ### **CSS**
-  * CSS precedence :white_check_mark:
-  * Flex and Grid :white_check_mark:
-  * Inline, internal, external :white_check_mark:
-  * SASS syntax 
+  * CSS precedence [Link](https://css-tricks.com/precedence-css-order-css-matters/) :white_check_mark:
+  * Flex and Grid [Link](https://viblo.asia/p/tran-chien-css-giua-grid-va-flexbox-1Je5EjkYKnL) :white_check_mark:
+  * Inline, internal, external [Link](https://www.w3schools.com/CSS/css_howto.asp) :white_check_mark:
+  * SASS syntax [Link](https://www.w3schools.com/sass/sass_intro.php)
 ### **JavaScript** (Src: W3school) 
-  * **JS ES6** :white_check_mark:
+  * **JS ES6** [Link](https://www.w3schools.com/Js/js_es6.asp) :white_check_mark:
     * *Let:* 
       - Variables defined with let cannot be redeclared.
       - Variables declared inside a { } block cannot be accessed from outside the block (Block Scope).
