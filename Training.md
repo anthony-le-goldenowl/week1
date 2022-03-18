@@ -64,6 +64,7 @@
     * *jQuery Effects* (Fade, Slide, Animate, ...)
     * *jQuery HTML* (Get, Set, ...)
     * *jQuery Traversing*
+    * (cont...)
   * **JavaScript Asynchronous:** [Link](https://www.w3schools.com/js//js_asynchronous.asp) (3/18/2022) <a name="318"></a> :white_check_mark:
   * **JavaScript DOM APIs:** [Link](https://web-fundamentals.dev/dom-api) :white_check_mark:
     * *Finding Elements*
