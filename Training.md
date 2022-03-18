@@ -71,6 +71,9 @@
     * *DOM node* 
     * *DOM event*
 ### Fitness Web UI Design 
-
+  * **HTML CSS JavaScript Responsive website research
+    * [Link 1](https://www.youtube.com/watch?v=yQimoqo0-7g)
+    * [Link 2](https://www.youtube.com/watch?v=P8YuWEkTeuE&t=1278s)
+    * [Link 3](https://www.w3schools.com/html/html_responsive.asp#:~:text=Responsive%20Web%20Design%20is%20about%20using%20HTML%20and,following%20%3Cmeta%3E%20tag%20to%20all%20your%20web%20pages%3A)
 
 ### Updating... 
