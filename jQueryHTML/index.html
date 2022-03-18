@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>My Sample</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script type="text/javascript">
+        let new_num = 40;
+        jQuery(document).ready(function () {
+            $('#countme').css({
+                margin: '0 auto',
+                backgroundColor: '#ccc',
+                textAlign: 'center',
+                fontSize: '40px'
+            }).bind('click mousemove', function () {
+                let current = parseInt($(this).text(), 10);
+                new_num = new_num + 1
+                $(this).text(current + 1).css({ fontSize: new_num + 'px' })
+            });
+        });
+    </script>
+</head>
+
+<body>
+    <div id="countme">0</div>
+
+</body>
+
+</html>
