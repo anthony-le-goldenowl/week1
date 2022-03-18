@@ -3,7 +3,7 @@
   | --------------------- |:------------------------------:|
   | 3/15/2022             |[HTML,CSS](#315)                |
   | 3/17/2022             |[JS ES6, JQuery](#317)          |
-  |                       |                                |
+  | 3/18/2022             |[JS Async, JS DOM APIs](#318)   |
 
 ### **HTML** (3/15/2022) <a name="315"></a>
   * Basic tags :white_check_mark:
@@ -12,7 +12,7 @@
   * CSS precedence [Link](https://css-tricks.com/precedence-css-order-css-matters/) :white_check_mark:
   * Flex and Grid [Link](https://viblo.asia/p/tran-chien-css-giua-grid-va-flexbox-1Je5EjkYKnL) :white_check_mark:
   * Inline, internal, external [Link](https://www.w3schools.com/CSS/css_howto.asp) :white_check_mark:
-  * SASS syntax [Link](https://www.w3schools.com/sass/sass_intro.php)
+  * SASS syntax [Link](https://www.w3schools.com/sass/sass_intro.php) :white_check_mark:
 ### **JavaScript** (Src: W3school) (3/17/2022) <a name="317"></a>
   * **JS ES6** [Link](https://www.w3schools.com/Js/js_es6.asp) :white_check_mark:
     * *Let:* 
@@ -60,10 +60,17 @@
     * *Function Rest Parameter:*
        - The rest parameter (...) allows a function to treat an indefinite number of arguments as an array.
      
-  * **jQuery** ([Testing code]())
+  * **jQuery** ([Testing code](https://github.com/anthony-le-goldenowl/week1/tree/Demo/jQueryResearch)) :white_check_mark:
     * *jQuery Effects* (Fade, Slide, Animate, ...)
-    * jQuery HTML* (Get, Set, ...)
-    * To be cont...
-   
+    * *jQuery HTML* (Get, Set, ...)
+    * *jQuery Traversing*
+  * **JavaScript Asynchronous:** [Link](https://www.w3schools.com/js//js_asynchronous.asp) (3/18/2022) <a name="318"></a> :white_check_mark:
+  * **JavaScript DOM APIs:** [Link](https://web-fundamentals.dev/dom-api) :white_check_mark:
+    * *Finding Elements*
+    * *Access elements* (Element content, HTML attributes, CSS Style, Traversing,...)
+    * *DOM node* 
+    * *DOM event*
+### Fitness Web UI Design 
+
 
 ### Updating... 
